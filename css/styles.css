@@ -13,4 +13,11 @@
 
 .card-body video {
     width: 100%;
+    border-radius: 2px;
+    transition: all 300ms;
+    filter: grayscale(100%);
+}
+
+.card-body video:hover {
+    filter: grayscale(0);
 }
