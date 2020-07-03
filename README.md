@@ -2,9 +2,13 @@
 
 # Erasmus Perhele
 
-> Website for our erasmus apartment's advertisement while looking for new tenants
-![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square) ![Dependency Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/54bccd5e-b1a6-4049-b9ca-fa988115fb03/deploy-status)](https://app.netlify.com/sites/erasmus-perhele/deploys)
+![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)
+![Dependency Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)
 ![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)
+
+> Website for our erasmus apartment's advertisement while looking for new tenants
+
 ---
 
 ## Table of Contents
@@ -27,29 +31,26 @@
 ## Contributing
 
 
-### Step 1
+### A 😎 :tada:
 
-- 🍴 Fork this repo
+🍴 Fork it
+👯 Clone it
 
-or
+### B 😊 :beers:
 
-- 👯 Clone this repo
+:hammer: *HACK AWAY!*
 
-### Step 2
+### C 😘 :rocket:
 
-- 🔨🔨🔨 **HACK AWAY!**
-
-### Step 3
-
-- 🔃 Create a pull request
+:green_heart: Pull request are always welcome
 
 ---
 
 ## Team
 
- ![Radosław Wojaczek](https://avatars1.githubusercontent.com/u/16490105?s=60&v=4?s=50&v=4?v=3&s=200)(https://github.com/Skotee)
- ![Marco Mondini](https://avatars1.githubusercontent.com/u/10319061?s=60&v=4?s=50&v=4?v=3&s=200)(https://github.com/mondial7)  
- ![Jose Puerto](https://avatars1.githubusercontent.com/u/12296407?s=60&v=4?s=50&v=4?v=3&s=200)(https://github.com/puertojose)
+ | [![Mirjami Oja](https://github.com/mirjamio.png?s=50)](https://github.com/mirjamio) | [![Radosław Wojaczek](https://github.com/Skotee.png?s=50)](https://github.com/Skotee) | [![Jose Puerto](https://github.com/puertojose.png?s=50)](https://github.com/puertojose) | [![Marco Mondini](https://github.com/mondial7.png?s=50)](https://github.com/mondial7) |
+ | --- | --- | --- | --- |
+ | [Mirjami :finland:](https://github.com/mirjamio) | [Radek :poland:](https://github.com/Skotee) | [Jose :colombia:](https://github.com/puertojose) | [Marco :italy:](https://github.com/mondial7) |
 
 ---
 
