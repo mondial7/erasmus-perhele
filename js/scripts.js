@@ -7,6 +7,19 @@ $(function () {
     $('[data-toggle="tooltip"]').tooltip();
     $('[data-toggle="popover"]').popover();
 
+    $('[video-overlay]').click(function(){
+        $('[video-overlay]').hide()
+    })
+    $('video').each(function(index){
+        const video = $(this)[0]
+        video.addEventListener('mouseout', e => {
+            video.muted = true
+        })
+        video.addEventListener('mouseover', e => {
+            video.muted = false
+        })
+    })
+
     //page scroll
     $('a.page-scroll').bind('click', function (event) {
         var $anchor = $(this);
