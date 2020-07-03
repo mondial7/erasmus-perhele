@@ -33,16 +33,15 @@
 
 ### A 😎 :tada:
 
-🍴 Fork it
-👯 Clone it
+>> 🍴 Fork it or 👯 Clone it
 
 ### B 😊 :beers:
 
-:hammer: *HACK AWAY!*
+> :hammer: *HACK AWAY!*
 
 ### C 😘 :rocket:
 
-:green_heart: Pull request are always welcome
+> :green_heart: Pull request are always welcome
 
 ---
 
@@ -50,7 +49,7 @@
 
  | [![Mirjami Oja](https://github.com/mirjamio.png?s=50)](https://github.com/mirjamio) | [![Radosław Wojaczek](https://github.com/Skotee.png?s=50)](https://github.com/Skotee) | [![Jose Puerto](https://github.com/puertojose.png?s=50)](https://github.com/puertojose) | [![Marco Mondini](https://github.com/mondial7.png?s=50)](https://github.com/mondial7) |
  | --- | --- | --- | --- |
- | [Mirjami :finland:](https://github.com/mirjamio) | [Radek :poland:](https://github.com/Skotee) | [Jose :colombia:](https://github.com/puertojose) | [Marco :italy:](https://github.com/mondial7) |
+ | [Mirjami :finland:](https://github.com/mirjamio) | [Radek :poland:](https://github.com/Skotee) | [Jose :colombia:](https://github.com/puertojose) | [Marco :it:](https://github.com/mondial7) |
 
 ---
 
