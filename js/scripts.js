@@ -7,6 +7,9 @@ $(function () {
     $('[data-toggle="tooltip"]').tooltip();
     $('[data-toggle="popover"]').popover();
 
+    $('[video-overlay]').click(function(){
+        $('[video-overlay]').hide()
+    })
     $('video').each(function(index){
         const video = $(this)[0]
         video.addEventListener('mouseout', e => {

@@ -11,13 +11,33 @@
     max-width: 100%;
 }
 
+
+.card-body {
+    position: relative;
+}
 .card-body video {
     width: 100%;
     border-radius: 2px;
     transition: all 300ms;
     filter: grayscale(100%);
+    animation: idk 8s ease-in-out infinite alternate-reverse;
 }
 
 .card-body video:hover {
     filter: grayscale(0);
+}
+
+@keyframes idk {
+    40% { transform: rotate(0deg); }
+    50% { transform: rotate(360deg); }
+    60% { transform: rotate(0deg); }
+}
+
+[video-overlay] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
 }
