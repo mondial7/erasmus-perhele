@@ -29,11 +29,11 @@
 
 ### Step 1
 
-- **Option 1**
-    - 🍴 Fork this repo!
+- 🍴 Fork this repo
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine
+or
+
+- 👯 Clone this repo
 
 ### Step 2
 
@@ -41,7 +41,7 @@
 
 ### Step 3
 
-- 🔃 Create a new pull request
+- 🔃 Create a pull request
 
 ---
 
@@ -49,10 +49,10 @@
 
  ![Radosław Wojaczek](https://avatars1.githubusercontent.com/u/16490105?s=60&v=4?s=50&v=4?v=3&s=200)(https://github.com/Skotee)
  ![Marco Mondini](https://avatars1.githubusercontent.com/u/10319061?s=60&v=4?s=50&v=4?v=3&s=200)(https://github.com/mondial7)  
- ![Jose Puerto](https://avatars1.githubusercontent.com/u/12296407?s=60&v=4?s=50&v=4?v=3&s=200) (https://github.com/puertojose)
+ ![Jose Puerto](https://avatars1.githubusercontent.com/u/12296407?s=60&v=4?s=50&v=4?v=3&s=200)(https://github.com/puertojose)
 
 ---
 
 ## 🌍 Oulu what?
 
-`https://visitoulu.fi/en/`
+[Visit Oulu 🇫🇮❤️](https://visitoulu.fi/en/)
